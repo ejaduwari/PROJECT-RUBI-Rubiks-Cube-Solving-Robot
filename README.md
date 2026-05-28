@@ -2,6 +2,9 @@
 
 ### ⚡ Autonomous High-Speed Rubik’s Cube Solving Robot
 
+<img width="1280" height="853" alt="2" src="https://github.com/user-attachments/assets/38f3b08a-2c42-4d1c-8549-21803a3e9ec5" />
+
+
 A robotics and embedded systems project integrating computer vision, distributed control systems, algorithmic solving, and mechanical automation.
 
 🚀 Achieved a final optimized solve time of **~1.2 seconds**
